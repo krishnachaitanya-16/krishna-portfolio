@@ -13,7 +13,6 @@ import CustomCursor from "./components/CustomCursor";
 import LoadingScreen from "./components/LoadingScreen";
 import PageTransition from "./components/PageTransition";
 import "./index.css";
-import AIChatBox from "./components/AIChatBox";
 import Resume from "./pages/Resume";
 
 gsap.registerPlugin(ScrollTrigger);
@@ -51,7 +50,7 @@ function App() {
   return (
     <>
       <CustomCursor />
-      <AIChatBox />
+      
 
       {/*
         ✅ LoadingScreen is ALWAYS mounted — never conditionally removed.
