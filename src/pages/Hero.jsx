@@ -261,7 +261,7 @@ const Hero = ({ ready = false }) => {
           justifyContent: isMobile ? "center" : "flex-start",
           opacity: 0, // start hidden
         }}>
-          <a href="https://github.com/Krishna-chaitanya-16" target="_blank" rel="noreferrer"
+          <a href="https://github.com/krishnachaitanya-16" target="_blank" rel="noreferrer"
             style={{ color: "#6b7280", fontSize: "11px", letterSpacing: "0.2em", textTransform: "uppercase", textDecoration: "none", transition: "color 0.3s" }}
             onMouseEnter={(e) => (e.target.style.color = "#7B2FBE")}
             onMouseLeave={(e) => (e.target.style.color = "#6b7280")}

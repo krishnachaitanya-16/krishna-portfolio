@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { gsap } from "gsap";
 
 const socialLinks = [
-  { name: "GitHub",   icon: "⌨️", url: "https://github.com/Krishna-chaitanya-16",                             color: "#ffffff", handle: "@Krishna-chaitanya-16"           },
+  { name: "GitHub",   icon: "⌨️", url: "https://github.com/krishnachaitanya-16",                             color: "#ffffff", handle: "@krishnachaitanya-16"           },
   { name: "LinkedIn", icon: "💼", url: "https://www.linkedin.com/in/kanakavalli-krishna-chaitanya-2b3114325", color: "#0A66C2", handle: "Krishna Chaitanya"                },
   { name: "Email",    icon: "📧", url: "mailto:kanakavallikrishna2006@gmail.com",                              color: "#C084FC", handle: "kanakavallikrishna2006@gmail.com" },
 ];
